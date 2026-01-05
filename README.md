@@ -1,6 +1,7 @@
 # mrosenbergtech
 * [WaterUI](https://github.com/mrosenbergtech/WaterUI)
-* [RetroAchievementsUI](https://github.com/mrosenbergtech/RetroAchievementsUI/)
+* [RetroAchievementsUI](https://github.com/mrosenbergtech/RetroAchievementsUI)
+* [LiteraryLasso](https://github.com/mrosenbergtech/LiteraryLasso)
 
 ## Application Support
 For any app related issues, please report an issue for the respective application above.
