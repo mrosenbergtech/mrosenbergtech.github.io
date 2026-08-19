@@ -3,6 +3,7 @@
 * [RetroAchievementsUI](https://github.com/mrosenbergtech/RetroAchievementsUI)
 * [LiteraryLasso](https://github.com/mrosenbergtech/LiteraryLasso)
 * [TravelTCG](https://github.com/mrosenbergtech/TravelTCG)
+* [Headscapades](https://github.com/mrosenbergtech/Headscapades)
 
 ## Application Support
 For any app related issues, please report an issue for the respective application above.
