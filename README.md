@@ -2,7 +2,7 @@
 * [WaterUI](https://github.com/mrosenbergtech/WaterUI)
 * [RetroAchievementsUI](https://github.com/mrosenbergtech/RetroAchievementsUI)
 * [LiteraryLasso](https://github.com/mrosenbergtech/LiteraryLasso)
-* [TravelTCG](https://github.com/mrosenbergtech/TravelTCG)
+* [CardBoard TCG](https://github.com/mrosenbergtech/TravelTCG)
 * [Headscapades](https://github.com/mrosenbergtech/Headscapades)
 
 ## Application Support
