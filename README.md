@@ -4,7 +4,7 @@
 * [LiteraryLasso](https://github.com/mrosenbergtech/LiteraryLasso)
 * [CardBoard TCG](https://github.com/mrosenbergtech/CardBoardTCG)
 * [Headscapades](https://github.com/mrosenbergtech/Headscapades)
-* BotBros
+* [BotBros](https://github.com/mrosenbergtech/BotBros)
 
 ## Application Support
 For any app related issues, please report an issue for the respective application above.
